@@ -5,7 +5,7 @@
 - list item1
 - list item2
 
-* list item1
+* list item1 [Link bilgisi](https://www.google.com)
 * list item2
 
 *italic*
@@ -14,7 +14,17 @@
 
 [Link Açıklaması Buraya](https://www.google.com)
 
+-------------------------------------------------
+
 //image vermek için üsteki yanına başına ! koy
 
 ![Link Açıklaması Buraya](https://picsum.photos/200/300)
 
+
+
+
+> naber
+
+```
+Burada kod örneği yazılabilir.
+```
