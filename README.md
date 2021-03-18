@@ -28,3 +28,5 @@
 ```
 Burada kod örneği yazılabilir.
 ```
+
+`Inline code` with backticks
