@@ -6,7 +6,7 @@
 - list item2
 
 * list item1 [Link bilgisi](https://www.google.com)
-* list item2
+* list item2 https://commonmark.org/help/
 
 *italic*
 **bold**
@@ -25,8 +25,14 @@
 
 > naber
 
+```python
+print("hello world")
 ```
-Burada kod örneği yazılabilir.
+```javascript
+console.log("Hello World)
+function helloWorld() {
+    console.log("hello world")
+}
 ```
 
 `Inline code` with backticks
