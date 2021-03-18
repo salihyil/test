@@ -12,7 +12,7 @@
 **bold**
 ***bolditalic***
 
-[Link Açıklaması Buraya](www.google.com)
+[Link Açıklaması Buraya](https://www.google.com)
 
 //image vermek için üsteki yanına başına ! koy
 
