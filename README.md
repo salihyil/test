@@ -1,7 +1,20 @@
-# Deneme
+# başlıklar >h1
+## > h2
+### > h3
 
-## Alt Bilgi
-123
-321
+- list item1
+- list item2
 
-[lorem ipsum](https://google.com)
+* list item1
+* list item2
+
+*italic*
+**bold**
+***bolditalic***
+
+[Link Açıklaması Buraya](www.google.com)
+
+//image vermek için üsteki yanına başına ! koy
+
+![Link Açıklaması Buraya](https://picsum.photos/200/300)
+
